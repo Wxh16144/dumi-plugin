@@ -1,6 +1,6 @@
 {
-  "name": "@rc-component/father-plugin",
   "version": "0.0.0",
+  "name": "@rc-component/dumi-plugin",
   "description": "The father plugin for all react-component projects",
   "keywords": [],
   "license": "MIT",

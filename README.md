@@ -1,6 +1,6 @@
-# @rc-component/father-plugin
+# @rc-component/dumi-plugin
 
-[![NPM version](https://img.shields.io/npm/v/@rc-component/father-plugin.svg?style=flat)](https://npmjs.org/package/@rc-component/father-plugin) [![NPM downloads](http://img.shields.io/npm/dm/@rc-component/father-plugin.svg?style=flat)](https://npmjs.org/package/@rc-component/father-plugin)
+[![NPM version](https://img.shields.io/npm/v/@rc-component/dumi-plugin.svg?style=flat)](https://npmjs.org/package/@rc-component/dumi-plugin) [![NPM downloads](http://img.shields.io/npm/dm/@rc-component/dumi-plugin.svg?style=flat)](https://npmjs.org/package/@rc-component/dumi-plugin)
 
 The father plugin for all react-component projects.
 
@@ -9,16 +9,16 @@ The father plugin for all react-component projects.
 Install this plugin in `devDependencies`:
 
 ```bash
-$ npm i @rc-component/father-plugin -D
+$ npm i @rc-component/dumi-plugin -D
 ```
 
-Register it in `.fatherrc.ts`:
+Register it in `.dumirc.ts`:
 
 ```ts
-import { defineConfig } from 'father';
+import { defineConfig } from 'dumi';
 
 export default defineConfig({
-  plugins: ['@rc-component/father-plugin'],
+  plugins: ['@rc-component/dumi-plugin'],
 });
 ```
 
