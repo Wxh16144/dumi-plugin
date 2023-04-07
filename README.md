@@ -2,7 +2,7 @@
 
 [![NPM version](https://img.shields.io/npm/v/@rc-component/dumi-plugin.svg?style=flat)](https://npmjs.org/package/@rc-component/dumi-plugin) [![NPM downloads](http://img.shields.io/npm/dm/@rc-component/dumi-plugin.svg?style=flat)](https://npmjs.org/package/@rc-component/dumi-plugin)
 
-The father plugin for all react-component projects.
+The dumi plugin for all react-component projects.
 
 ## Usage
 
